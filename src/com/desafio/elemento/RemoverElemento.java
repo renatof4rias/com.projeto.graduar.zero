@@ -2,7 +2,7 @@ package com.desafio.elemento;
 
 import java.util.Scanner;
 
-public class RemoveElement {
+public class RemoverElemento {
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
         System.out.println("Quantos valores vai digitar?");
