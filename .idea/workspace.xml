@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce65cf4b-86de-431c-9dc0-98addf633723" name="Changes" comment="Desafio 2 - RemoveElement.">
+    <list default="true" id="ce65cf4b-86de-431c-9dc0-98addf633723" name="Changes" comment="Desafio 1 - RomanToInteger.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/desafio/elemento/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/desafio/elemento/RemoverElemento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/desafio/romano/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/desafio/romano/RomanoInteiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/desafio/soma/DuasSomas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/desafio/soma/DuasSomas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,12 +65,38 @@
       <option name="project" value="LOCAL" />
       <updated>1719540090642</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Desafio 2 - RemoveElement.">
+      <option name="closed" value="true" />
+      <created>1719540876125</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719540876125</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Desafio 3 - Two Sum.">
+      <option name="closed" value="true" />
+      <created>1719540906167</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719540906167</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Desafio 1 - RomanToInteger.">
+      <option name="closed" value="true" />
+      <created>1719540933897</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719540933897</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Desafios Graduar 0" />
     <MESSAGE value="Desafio 2 - RemoveElement." />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio 2 - RemoveElement." />
+    <MESSAGE value="Desafio 3 - Two Sum." />
+    <MESSAGE value="Desafio 1 - RomanToInteger." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio 1 - RomanToInteger." />
   </component>
 </project>
